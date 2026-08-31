@@ -1,10 +1,44 @@
-- 👋 Hi, I’m Sam 
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Javascript, REACT, Python, Solidity
-- 💞️ I’m looking to collaborate on blockchain Dapp
-- 📫 How to reach me right here!
+<h1 align="center">Sam Kan</h1>
 
-<!---
-samkan113096/samkan113096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Full-Stack Engineer &amp; Technical Founder</b> — I build systems that move money.
+</p>
+
+<p align="center">
+  <a href="https://samkan.xyz">samkan.xyz</a> ·
+  <a href="https://linkedin.com/in/samkan">LinkedIn</a> ·
+  <a href="mailto:samkan113096@gmail.com">samkan113096@gmail.com</a> ·
+  New York City
+</p>
+
+---
+
+I'm a self-taught full-stack engineer in NYC. I ship whole systems — smart contracts, ledgers, APIs, frontends, deploy — with founder-level ownership and a regulated-systems background (years of zero-error federal adjudication at the U.S. Social Security Administration).
+
+### What I'm building
+
+| Project | What it is | My role | Stage |
+|---|---|---|---|
+| **[MegaCharm](https://megacharm.io)** | Decentralized lottery protocol on BNB Smart Chain — Chainlink VRF fair draws, $MEGA token | Founder, sole builder | 🟢 Live on BSC · open source |
+| **[Xanto](https://xanto.cash)** | Cross-border fintech for LATAM — USD accounts, cards, double-entry ledger | Co-founder & CTO | 🟢 Live · waitlist |
+| **[BAGR](https://bagr.app)** | Music-marketplace payments — Stripe, sales tax, escrow | Backend lead & tech PM | 🟡 In build |
+
+### Selected open source
+
+- **[solidity-token-suite](https://github.com/samkan113096/solidity-token-suite)** — capped ERC-20 + linear vesting with cliff + Merkle airdrop; 18 Foundry tests
+- **[shortlink-api](https://github.com/samkan113096/shortlink-api)** — TypeScript/Express/Postgres URL shortener: JWT auth, Zod validation, rate limiting, tests
+- More: a Uniswap-style DEX, an on-chain prediction-market bot, and a token-launch platform
+
+### Stack
+
+`TypeScript` · `Solidity` · `Python` · `React` · `Next.js` · `Node.js` · `Express`
+`PostgreSQL` · `Stripe` · `Chainlink VRF` · `Foundry` · `Hardhat` · `wagmi/viem` · `Docker` · `AWS`
+
+### Certificates
+
+**Google Career Certificates (2026):** Cybersecurity · Data Analytics · Business Intelligence · AI · AI Essentials · IT Support · Project Management
+**Codecademy (2021):** Computer Science & Full-Stack Engineer career paths · **Alchemy University (2023):** Ethereum Developer Bootcamp
+
+### A little more
+
+Born in Hong Kong, New York since 14. U.S. Army veteran. Trilingual — English, Cantonese, Mandarin. Open to engineering roles: **samkan113096@gmail.com**.
