@@ -1,7 +1,7 @@
 <h1 align="center">Sam Kan</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer &amp; Technical Founder</b> — I build systems that move money.
+  <b>Technical Program Manager</b> — I ship the systems that move money, and I can code the ones underneath.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-I'm a self-taught full-stack engineer in NYC. I ship whole systems — smart contracts, ledgers, APIs, frontends, deploy — with founder-level ownership and a regulated-systems background (years of zero-error federal adjudication at the U.S. Social Security Administration).
+I'm a Technical Program Manager in NYC who ships complex cross-functional programs end to end — and I can read and write the code underneath them. I lead a 10-person cross-functional team delivering a payments marketplace, and I got here by building three products myself (smart contracts, ledgers, APIs, frontends, deploy). This GitHub is the technical-depth half of that story.
 
 ### What I'm building
 
