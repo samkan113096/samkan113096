@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://samkan.xyz">samkan.xyz</a> ·
-  <a href="https://linkedin.com/in/samkan">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/honfaikan">LinkedIn</a> ·
   <a href="mailto:samkan113096@gmail.com">samkan113096@gmail.com</a> ·
   New York City
 </p>
