@@ -41,4 +41,4 @@ I'm a Technical Program Manager in NYC who ships complex cross-functional progra
 
 ### A little more
 
-Born in Hong Kong, New York since 14. U.S. Army veteran. Trilingual — English, Cantonese, Mandarin. Open to engineering roles: **samkan113096@gmail.com**.
+Born in Hong Kong, New York since 14. U.S. Army veteran. Trilingual — English, Cantonese, Mandarin. Open to **Technical Program Manager** roles: **samkan113096@gmail.com**.
