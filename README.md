@@ -36,7 +36,7 @@ I'm a Technical Program Manager in NYC who ships complex cross-functional progra
 
 ### Education
 
-**Codecademy (2021):** Computer Science and Full Stack Engineer bootcamp
+**Codecademy (2021):** Computer Science and Fullstack Developer bootcamp
 
 ### Certificates
 
