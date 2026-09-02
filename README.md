@@ -34,10 +34,14 @@ I'm a Technical Program Manager in NYC who ships complex cross-functional progra
 `TypeScript` · `Solidity` · `Python` · `React` · `Next.js` · `Node.js` · `Express`
 `PostgreSQL` · `Stripe` · `Chainlink VRF` · `Foundry` · `Hardhat` · `wagmi/viem` · `Docker` · `AWS`
 
+### Education
+
+**Codecademy (2021):** Computer Science and Full Stack Engineer bootcamp
+
 ### Certificates
 
 **Google Career Certificates (2026):** Cybersecurity · Data Analytics · Business Intelligence · AI · AI Essentials · IT Support · Project Management
-**Codecademy (2021):** Computer Science & Full-Stack Engineer career paths · **Alchemy University (2023):** Ethereum Developer Bootcamp
+**Alchemy University (2023):** Ethereum Developer Bootcamp
 
 ### A little more
 
